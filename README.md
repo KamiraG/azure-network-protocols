@@ -1,4 +1,4 @@
-<h1>Virtual machine creation in Azure</h1>
+<h1>Creating a virtual machine in Azure and connecting with remote desktop</h1>
 This guide outlines the steps to creating a virtual machine in Azure and connecting using remote desktop.<br />
 
 <h2>Video Demonstration</h2>

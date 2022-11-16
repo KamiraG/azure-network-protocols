@@ -3,7 +3,7 @@ This guide outlines the steps to creating a virtual machine in Azure and connect
 
 <h2>Video Demonstration</h2>
 
-- ### [How to create a virtual machine in Azure and connect remotely [VIDEO]](http://bit.ly/3Gm0xZ8)
+- ### [How to create a virtual machine in Azure and connect remotely [Tutorial VIDEO]](http://bit.ly/3Gm0xZ8)
 
 <h2>Environments and Technologies Used</h2>
 

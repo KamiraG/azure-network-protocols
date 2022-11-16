@@ -1,5 +1,9 @@
 <h1>Virtual machine creation in Azure</h1>
-This guide outlines the steps to creating a virtual machine in Azure and connecting to the network remotely.<br />
+This guide outlines the steps to creating a virtual machine in Azure and connecting using remote desktop.<br />
+
+<h2>Video Demonstration</h2>
+
+- ### [How to create a virtual machine in Azure and connect remotely [VIDEO]](http://bit.ly/3Gm0xZ8)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -30,6 +34,7 @@ Sign into you Azure account.
 Set your location, image, size of your virutal computer. (Example: US East US, Windows 10 Pro with Size 2vcpus 16GB)
     <p>
       Under the Administrator section, set up a user and password (write down) 
+<P>
 Check box next to "Licensing". Click "Next and Create" 
 <p>
 <img src="https://i.imgur.com/SWOULz8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
